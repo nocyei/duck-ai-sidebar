@@ -1,4 +1,4 @@
-<h1 style="display:flex; align-items:center; gap:0.5rem; line-height:32px;">
+<h1 style="display:flex; align-items:center; gap:0.5rem;">
   <img src="src/icons/logo-dark.svg#gh-light-mode-only" alt="Duck.ai Logo" width="32" height="32" />
   <img src="src/icons/logo-white.svg#gh-dark-mode-only" alt="Duck.ai Logo" width="32" height="32" />
   <span>Duck.ai Sidebar</span>
