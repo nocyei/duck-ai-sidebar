@@ -71,7 +71,7 @@ Ask [Duck.ai][duck.ai] about selected text on any webpage by right-clicking and 
 
 ## Credits
 
-The original extension was created by @yookoala
+The original extension was created by [@yookoala](https://github.com/yookoala).
 
 ## License
 
