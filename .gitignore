@@ -8,3 +8,6 @@
 *.xpi
 *.zip
 /dist/
+
+# MacOS system files
+.DS_store
