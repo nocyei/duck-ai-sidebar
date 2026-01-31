@@ -41,14 +41,6 @@ Model | Documentation
 [Claude Sonnet 4.5][claude-sonnet-4.5] | [Claude API][claude-api-platform]
 [Llama 4 Maverick][llama-4] | [Llama Docs][llama-4-docs]
 
-## Extension Features
-
-Feature | Status
-------- | ------
-Access [Duck.ai][duck.ai] in the Firefox sidebar. | Complete
-Reload [Duck.ai][duck.ai] in the Firefox sidebar with the click of a button. | Planned
-Ask [Duck.ai][duck.ai] about selected text on any webpage by right-clicking and choosing "Ask Duck.ai". | Planned
-
 [chatgpt-4o-mini]: https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence
 [chatgpt-4o-mini-platform]: https://platform.openai.com/docs/models/gpt-4o-mini
 [chatgpt-5-mini]: https://openai.com/index/introducing-gpt-5/
