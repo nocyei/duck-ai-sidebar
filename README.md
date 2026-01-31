@@ -8,12 +8,14 @@
 
 [badge-mit]: https://img.shields.io/badge/License-MIT-blue.svg
 [url-mit]: https://opensource.org/licenses/MIT
-[badge-firefox]: https://img.shields.io/badge/Support-Firefox-darkgreen.svg
-[url-firefox]: https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-ai-chat-sidebar/
+[badge-firefox]: https://img.shields.io/badge/Support-Firefox-mildgreen.svg
+[url-firefox]: https://addons.mozilla.org/en-US/firefox/addon/duck-ai-sidebar/
 
 This extension allows you to open the [Duck.ai][duck.ai] chat interface in the Firefox sidebar, similar to Microsoft Edge's Copilot sidebar.
 
-[Duck.ai][duck.ai] is an AI chat service provided by [DuckDuckGo][duckduckgo-about], which lets users access various AI models for free without sacrificing personal data.
+[Duck.ai][duck.ai] is an AI chat service provided by [DuckDuckGo][duckduckgo-about], which lets users access various AI models for free without sacrificing personal data[^1].
+
+[^1]: [Duck.ai's Privacy Policy and Terms of Service][duck.ai-pp-tos] provide more details on how user data is handled.
 
 ## Base Models
 
@@ -40,6 +42,7 @@ Model | Documentation
 [Llama 4 Maverick][llama-4] | [Llama Docs][llama-4-docs]
 
 ## Extension Features
+
 Feature | Status
 ------- | ------
 Access [Duck.ai][duck.ai] in the Firefox sidebar. | Complete
@@ -66,6 +69,7 @@ Ask [Duck.ai][duck.ai] about selected text on any webpage by right-clicking and 
 [claude-sonnet-4.5]: https://www.anthropic.com/news/claude-sonnet-4-5
 
 [duck.ai]: https://duck.ai
+[duck.ai-pp-tos]: https://duckduckgo.com/duckai/privacy-terms
 [duckduckgo-about]: https://duckduckgo.com/about
 [duckduckgo-pro]: https://duckduckgo.com/pro
 
