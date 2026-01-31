@@ -1,6 +1,7 @@
 # The MIT License (MIT)
 
 Copyright © 2024 "Shu Hung Yeung (Koala Yeung)" <koalay at gmail dot com>
+
 Copyright &copy; 2026 nocyei
 
 Permission is hereby granted, free of charge, to any person
