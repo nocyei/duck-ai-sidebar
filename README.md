@@ -1,10 +1,14 @@
 <h1 style="display:flex; align-items:center; gap:0.5rem;">
-  <img src="src/icons/logo-dark.svg#gh-light-mode-only" alt="Duck.ai Logo" width="32" height="32" />
-  <img src="src/icons/logo-white.svg#gh-dark-mode-only" alt="Duck.ai Logo" width="32" height="32" />
+  <img src="src/icons/logo-white.svg#gh-light-mode-only" alt="Duck.ai Logo" width="32" height="32" />
+  <img src="src/icons/logo-dark.svg#gh-dark-mode-only" alt="Duck.ai Logo" width="32" height="32" />
   <span>Duck.ai Sidebar</span>
 </h1>
 
-[![License: MIT][badge-mit]][url-mit] [![Firefox Addon][badge-firefox]][url-firefox]
+> [!warning]
+> This extension is not yet available on the Firefox Add-ons Store;
+> please refer to the original extension for now.
+
+[![License: MIT][badge-mit]][url-mit] [![Firefox Add-on][badge-firefox]][url-firefox]
 
 [badge-mit]: https://img.shields.io/badge/License-MIT-blue.svg
 [url-mit]: https://opensource.org/licenses/MIT
@@ -21,6 +25,7 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
 
 <details>
   <summary>Click here to expand/collapse Duck.ai's features.</summary>
+  
   <!-- To-Do: add Duck.ai feature descriptions -->
   Duck.ai | Description
   ------- | -------
