@@ -14,7 +14,6 @@
 [url-mit]: https://opensource.org/licenses/MIT
 [badge-firefox]: https://img.shields.io/badge/Support-Firefox-brightgreen.svg
 [url-firefox]: https://addons.mozilla.org/en-US/firefox/addon/duck-ai-sidebar/
-[badge-version]: 
 
 This extension allows you to open the [Duck.ai][duck.ai] chat interface in the Firefox sidebar, similar to Microsoft Edge's Copilot sidebar.
 
