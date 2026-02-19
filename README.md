@@ -81,8 +81,7 @@ The original extension was created by [@yookoala](https://github.com/yookoala/du
 
 ## License
 
-This software is distributed under the MIT License. A copy of the license is
-distributed along with the source code [here](LICENSE.md).
+This software is distributed under the MIT License. A copy of the license is distributed along with the source code [here](LICENSE.md).
 
 <!-- Base Model Links -->
 [chatgpt-4o-mini]: https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence
