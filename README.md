@@ -13,7 +13,7 @@
 
 > [!warning]
 > This extension is not yet available on the Firefox Add-ons Store;
-> please refer to the original extension for now.
+> please refer to the [original extension](https://github.com/yookoala/duckduckgo-ai-chat-sidebar) for now.
 
 This extension allows you to open the [Duck.ai][duck.ai] chat interface in the Firefox sidebar, similar to Microsoft Edge's Copilot sidebar.
 
@@ -77,7 +77,7 @@ Additionally, users with a [DuckDuckGo Pro][duckduckgo-pro] **subscription** can
 
 ## Credits
 
-The original extension was created by [@yookoala](https://github.com/yookoala/duckduckgo-ai-chat-sidebar).
+The original extension was created by @yookoala
 
 ## License
 
