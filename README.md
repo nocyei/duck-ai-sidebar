@@ -77,7 +77,7 @@ Additionally, users with a [DuckDuckGo Pro][duckduckgo-pro] **subscription** can
 
 ## Credits
 
-The original extension was created by @yookoala
+The original extension was created by [@yookoala](https://github.com/yookoala).
 
 ## License
 
