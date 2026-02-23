@@ -26,12 +26,11 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
 <details>
   <summary>Click here to expand/collapse Duck.ai's features.</summary>
   
-  <!-- To-Do: add Duck.ai feature descriptions -->
   Duck.ai | Description
   ------- | -------
-  AI Chat | 
-  AI Voice Chat | 
-  AI Image Creation | 
+  AI Chat | Allows you to have private conversations with 3rd-party AI chat models, anonymized by DuckDuckGo[^1].
+  AI Voice Chat | Allows you to have private voice conversations with an OpenAI model[^2], anonymized by DuckDuckGo[^1].
+  AI Image Creation | Allows you to create AI-generated images.
 </details>
 
 <details open>
@@ -46,7 +45,7 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
 
 ## Base Models
 
-As of February 2026, [Duck.ai][duck.ai] offers the following models to all users:
+As of late February 2026, [Duck.ai][duck.ai] offers the following models to all users:
 
 <details>
   <summary>Click here to expand/collapse.</summary>
@@ -119,3 +118,4 @@ This software is distributed under the MIT License. A copy of the license is dis
 
 <!-- Footnotes -->
 [^1]: [Duck.ai's Privacy Policy and Terms of Service][duck.ai-pp-tos] provide more details on how user data is handled.
+[^2]: [OpenAI is the model provider for all voice chats.](https://duckduckgo.com/duckduckgo-help-pages/duckai/is-duckai-voice-chat-private)
