@@ -57,7 +57,7 @@ As of February 2026, [Duck.ai][duck.ai] offers the following models to all users
   [GPT-5 mini][chatgpt-5-mini] | [OpenAI API][chatgpt-5-mini-platform]
   [GPT-OSS 120B][chatgpt-oss-120b] | [OpenAI API][chatgpt-oss-120b-platform]
   [Llama 4 Scout][llama-4] | [Llama Docs][llama-4-docs]
-  [Claude Haiku 3.5][claude-haiku-3.5] | [Claude API][claude-api-platform]
+  [Claude Haiku 4.5][claude-haiku-4.5] | [Claude API][claude-api-platform]
   [Mistral Small 3][mistral-small-3] | [Mistral Docs][mistral-small-3-docs]
 </details>
 
@@ -70,7 +70,8 @@ Additionally, users with a [DuckDuckGo Pro][duckduckgo-pro] **subscription** can
   Model | Documentation
   ----- | -------------
   [GPT-4o][chatgpt-4o] | [OpenAI API][chatgpt-4o-platform]
-  [GPT-5.1][chatgpt-5.1] | [OpenAI API][chatgpt-5.1-platform]
+  [GPT-5.2][chatgpt-5.2] | [OpenAI API][chatgpt-5.2-platform]
+  [GPT-5.2 Thinking][chatgpt-5.2-thinking] | [OpenAI API][chatgpt-5.2-thinking-platform]
   [Claude Sonnet 4.5][claude-sonnet-4.5] | [Claude API][claude-api-platform]
   [Llama 4 Maverick][llama-4] | [Llama Docs][llama-4-docs]
 </details>
@@ -92,7 +93,7 @@ This software is distributed under the MIT License. A copy of the license is dis
 [chatgpt-oss-120b-platform]: https://platform.openai.com/docs/models/gpt-oss-120b
 [llama-4]: https://www.llama.com/models/llama-4/
 [llama-4-docs]: https://www.llama.com/docs/model-cards-and-prompt-formats/llama4/
-[claude-haiku-3.5]: https://www.anthropic.com/news/3-5-models-and-computer-use
+[claude-haiku-4.5]: https://www.anthropic.com/news/claude-haiku-4-5
 [claude-api-platform]: https://platform.claude.com/docs/en/about-claude/models/overview
 [mistral-small-3]: https://mistral.ai/news/mistral-small-3
 [mistral-small-3-docs]: https://docs.mistral.ai/models/mistral-small-3-0-25-01
@@ -100,8 +101,10 @@ This software is distributed under the MIT License. A copy of the license is dis
 <!-- Advanced Model Links -->
 [chatgpt-4o]: https://openai.com/index/hello-gpt-4o/
 [chatgpt-4o-platform]: https://platform.openai.com/docs/models/gpt-4o
-[chatgpt-5.1]: https://openai.com/index/gpt-5-1/
-[chatgpt-5.1-platform]: https://platform.openai.com/docs/models/gpt-5.1
+[chatgpt-5.2]: https://openai.com/index/introducing-gpt-5-2/
+[chatgpt-5.2-platform]: https://platform.openai.com/docs/models/gpt-5.2
+[chatgpt-5.2-thinking]: https://openai.com/index/introducing-gpt-5-2/
+[chatgpt-5.2-thinking-platform]: https://platform.openai.com/docs/models/gpt-5.2
 [claude-sonnet-4.5]: https://www.anthropic.com/news/claude-sonnet-4-5
 
 <!-- Duck.ai Links -->
