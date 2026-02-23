@@ -17,7 +17,9 @@
 
 This extension allows you to open the [Duck.ai][duck.ai] chat interface in the Firefox sidebar, similar to Microsoft Edge's Copilot sidebar.
 
-[Duck.ai][duck.ai] is an AI chat service provided by [DuckDuckGo][duckduckgo-about], which lets users access various AI models for free without sacrificing personal data[^1].
+[Duck.ai][duck.ai] is an AI service provided by [DuckDuckGo][duckduckgo-about], which lets users access various AI models for free without sacrificing personal data[^1]. 
+
+[Duck.ai][duck.ai] is free to use, but there is a daily limit on usage[^2]. [DuckDuckGo subscribers][duckduckgo-pro] have access to higher usage limits than the free version of [Duck.ai][duck.ai][^2].
 
 ## Features
 
@@ -29,7 +31,7 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
   Duck.ai | Description
   ------- | -------
   AI Chat | Allows you to have private conversations with 3rd-party AI chat models, anonymized by DuckDuckGo[^1].
-  AI Voice Chat | Allows you to have private voice conversations with an OpenAI model[^2], anonymized by DuckDuckGo[^1].
+  AI Voice Chat | Allows you to have private voice conversations with an OpenAI model[^3], anonymized by DuckDuckGo[^1].
   AI Image Creation | Allows you to create AI-generated images.
 </details>
 
@@ -118,4 +120,5 @@ This software is distributed under the MIT License. A copy of the license is dis
 
 <!-- Footnotes -->
 [^1]: [Duck.ai's Privacy Policy and Terms of Service][duck.ai-pp-tos] provide more details on how user data is handled.
-[^2]: [OpenAI is the model provider for all voice chats.](https://duckduckgo.com/duckduckgo-help-pages/duckai/is-duckai-voice-chat-private)
+[^2]: See [Duck.ai's usage limits](https://duckduckgo.com/duckduckgo-help-pages/duckai/usage-limits) for more information.
+[^3]: [OpenAI is the model provider for all voice chats.](https://duckduckgo.com/duckduckgo-help-pages/duckai/is-duckai-voice-chat-private)
