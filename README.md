@@ -17,7 +17,7 @@
 
 This extension allows you to open the [Duck.ai][duck.ai] chat interface in the Firefox sidebar, similar to Microsoft Edge's Copilot sidebar.
 
-[Duck.ai][duck.ai] is an AI service provided by [DuckDuckGo][duckduckgo-about], which lets users access various AI models for free without sacrificing personal data[^1]. 
+[Duck.ai][duck.ai] is an AI service provided by [DuckDuckGo][duckduckgo-about], which lets users access various third-party AI chat models (anonymized by DuckDuckGo) for free without sacrificing personal data[^1]. 
 
 [Duck.ai][duck.ai] is free to use, but there is a daily limit on usage[^2]. [DuckDuckGo subscribers][duckduckgo-pro] have access to higher usage limits than the free version of [Duck.ai][duck.ai][^2].
 
