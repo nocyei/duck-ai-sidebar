@@ -28,8 +28,8 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
 <details>
   <summary>Click here to expand/collapse Duck.ai's features.</summary>
   
-  Duck.ai | Description
-  ------- | -------
+  Duck.ai Features | Description
+  ---------------- | -----------
   AI Chat | Allows you to have private conversations with 3rd-party AI chat models, anonymized by DuckDuckGo[^1].
   AI Voice Chat | Allows you to have private voice conversations with an OpenAI model[^3], anonymized by DuckDuckGo[^1].
   AI Image Creation | Allows you to create AI-generated images.
