@@ -1,14 +1,14 @@
-all: dist/ddg_ai_chat_in_sidebar--firefox.xpi dist/ddg_ai_chat_in_sidebar--chrome.zip
+all: dist/duck_ai_sidebar-firefox.xpi dist/duck_ai_sidebar-chrome.zip
 
 # For upload and distribute to Firefox
-dist/ddg_ai_chat_in_sidebar--firefox.xpi: dist/firefox
+dist/duck_ai_sidebar-firefox.xpi: dist/firefox
 	cd ./dist/firefox && zip -r ../../$@ ./*
 	@echo -e "###############################################################################"
-	@echo -e "# Firefox extension package created at dist/ddg_ai_chat_in_sidebar--firefox.xpi"
+	@echo -e "# Firefox extension package created at dist/duck_ai_sidebar-firefox.xpi"
 	@echo -e "###############################################################################\n"
 
 # For upload and distribute to Chrome
-dist/ddg_ai_chat_in_sidebar--chrome.zip: dist/chrome
+dist/duck_ai_sidebar-chrome.zip: dist/chrome
 	@echo -e "#######################################################################"
 	@echo -e "# Use Chrome or Chromium to package the dist/chrome folder as extension"
 	@echo -e "#######################################################################\n"
