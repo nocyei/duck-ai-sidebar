@@ -26,7 +26,7 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
 [Duck.ai][duck.ai] and [Duck.ai Sidebar extension][duck.ai-sidebar-repo] features. <!-- To-Do: repository link needs to be switched with extension link, once uploaded to Firefox Add-ons -->
 
 <details>
-  <summary>Click here to expand/collapse Duck.ai's features.</summary>
+  <summary><em>Click here to expand/collapse Duck.ai's features.</em></summary>
   
   Duck.ai Features | Description
   ---------------- | -----------
@@ -36,7 +36,7 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
 </details>
 
 <details open>
-  <summary>Click here to expand/collapse.</summary>
+  <summary><em>Click here to expand/collapse the Sidebar's features.</em></summary>
   
   Sidebar Features | Status
   ---------------- | :----:
@@ -50,7 +50,7 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
 As of late February 2026, [Duck.ai][duck.ai] offers the following models to all users:
 
 <details>
-  <summary>Click here to expand/collapse.</summary>
+  <summary><em>Click here to expand/collapse.</em></summary>
   
   Model | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
   ----- | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
@@ -66,7 +66,7 @@ As of late February 2026, [Duck.ai][duck.ai] offers the following models to all 
 
 Additionally, users with a [DuckDuckGo Pro][duckduckgo-pro] **subscription** can access *advanced* models:
 <details>
-  <summary>Click here to expand/collapse.</summary>
+  <summary><em>Click here to expand/collapse.</em></summary>
   
   Model | Documentation
   ----- | :-----------:
