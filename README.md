@@ -52,14 +52,14 @@ As of late February 2026, [Duck.ai][duck.ai] offers the following models to all 
 <details>
   <summary>Click here to expand/collapse.</summary>
   
-  Model | Documentation
-  ----- | -------------
-  [GPT-4o mini][chatgpt-4o-mini] | [OpenAI API][chatgpt-4o-mini-platform]
-  [GPT-5 mini][chatgpt-5-mini] | [OpenAI API][chatgpt-5-mini-platform]
-  [GPT-OSS 120B][chatgpt-oss-120b] | [OpenAI API][chatgpt-oss-120b-platform]
-  [Llama 4 Scout][llama-4] | [Llama Docs][llama-4-docs]
-  [Claude Haiku 4.5][claude-haiku-4.5] | [Claude API][claude-api-platform]
-  [Mistral Small 3][mistral-small-3] | [Mistral Docs][mistral-small-3-docs]
+  Model | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
+  ----- | ----------- | ------------ | ---------- | -------- | ------------------- | ---------- | -------------
+  [GPT-5 mini][chatgpt-5-mini] | :heavy_multiplication_x: :x: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5-mini-platform]
+  [GPT-4o mini][chatgpt-4o-mini] | :heavy_multiplication_x: :x: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-mini-platform]
+  [GPT-OSS 120B][chatgpt-oss-120b] | :heavy_check_mark: | :heavy_multiplication_x: :x: | :heavy_multiplication_x: :x: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-oss-120b-platform]
+  [Llama 4 Scout][llama-4] | :heavy_check_mark: | :heavy_multiplication_x: :x: | :heavy_multiplication_x: :x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
+  [Claude Haiku 4.5][claude-haiku-4.5] | :heavy_multiplication_x: :x: | :heavy_multiplication_x: :x: | :heavy_check_mark: | General-purpose AI | High | Anthropic | [Claude API][claude-api-platform]
+  [Mistral Small 3][mistral-small-3] | :heavy_check_mark: | :heavy_multiplication_x: :x: | :heavy_multiplication_x: :x: | General-purpose AI | Low | Mistral AI | [Mistral Docs][mistral-small-3-docs]
 </details>
 
 ## Advanced Models
@@ -86,10 +86,10 @@ The original extension was created by [@yookoala](https://github.com/yookoala).
 This software is distributed under the MIT License. A copy of the license is distributed along with the source code [here](LICENSE.md).
 
 <!-- Base Model Links -->
-[chatgpt-4o-mini]: https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence
-[chatgpt-4o-mini-platform]: https://platform.openai.com/docs/models/gpt-4o-mini
 [chatgpt-5-mini]: https://openai.com/index/introducing-gpt-5/
 [chatgpt-5-mini-platform]: https://platform.openai.com/docs/models/gpt-5-mini
+[chatgpt-4o-mini]: https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence
+[chatgpt-4o-mini-platform]: https://platform.openai.com/docs/models/gpt-4o-mini
 [chatgpt-oss-120b]: https://openai.com/index/introducing-gpt-oss/
 [chatgpt-oss-120b-platform]: https://platform.openai.com/docs/models/gpt-oss-120b
 [llama-4]: https://www.llama.com/models/llama-4/
