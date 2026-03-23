@@ -39,7 +39,7 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
   <summary>Click here to expand/collapse.</summary>
   
   Sidebar Features | Status
-  ---------------- | ------
+  ---------------- | :----:
   Access to Duck.ai and it's features in a Sidebar. | Implemented
   Ask Duck.ai about selected text on a webpage, using the context menu. | Planned
   Ask Duck.ai to summarize the current webpage, using the context menu. | Planned
@@ -53,7 +53,7 @@ As of late February 2026, [Duck.ai][duck.ai] offers the following models to all 
   <summary>Click here to expand/collapse.</summary>
   
   Model | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
-  :---: | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
+  ----- | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
   [GPT-5 mini][chatgpt-5-mini] | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5-mini-platform]
   [GPT-4o mini][chatgpt-4o-mini] | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-mini-platform]
   [GPT-OSS 120B][chatgpt-oss-120b] | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-oss-120b-platform]
@@ -69,7 +69,7 @@ Additionally, users with a [DuckDuckGo Pro][duckduckgo-pro] **subscription** can
   <summary>Click here to expand/collapse.</summary>
   
   Model | Documentation
-  ----- | -------------
+  ----- | :-----------:
   [GPT-4o][chatgpt-4o] | [OpenAI API][chatgpt-4o-platform]
   [GPT-5.2][chatgpt-5.2] | [OpenAI API][chatgpt-5.2-platform]
   [GPT-5.2 Thinking][chatgpt-5.2-thinking] | [OpenAI API][chatgpt-5.2-thinking-platform]
