@@ -19,7 +19,7 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
 
 [Duck.ai][duck.ai] is an AI service provided by [DuckDuckGo][duckduckgo-about], which lets users access various third-party AI chat models for free without sacrificing personal data[^1]. 
 
-[Duck.ai][duck.ai] is free to use, but there is a daily limit on usage[^2]. [DuckDuckGo Pro subscribers][duckduckgo-pro] have access to higher usage limits than the free version of [Duck.ai][duck.ai][^2].
+[Duck.ai][duck.ai] is free to use, but there is a daily limit on usage[^2]. [DuckDuckGo Pro subscribers][duckduckgo-subscription] have access to higher usage limits than the free version of [Duck.ai][duck.ai][^2].
 
 ## Features
 
@@ -47,7 +47,7 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
 
 ## Base Models
 
-As of late February 2026, [Duck.ai][duck.ai] offers the following models to all users:
+As of late March 2026, [Duck.ai][duck.ai] offers the following models to all users:
 
 <details>
   <summary><em>Click here to expand/collapse.</em></summary>
@@ -64,17 +64,23 @@ As of late February 2026, [Duck.ai][duck.ai] offers the following models to all 
 
 ## Advanced Models
 
-Additionally, users with a [DuckDuckGo Pro][duckduckgo-pro] **subscription** can access *advanced* models:
+Additionally, users with a [DuckDuckGo **subscription**][duckduckgo-subscription] can access *advanced* models:
 <details>
-  <summary><em>Click here to expand/collapse.</em></summary>
+  <summary><em>Click here to expand/collapse PLUS models.</em></summary>
   
-  Model | Documentation
-  ----- | :-----------:
-  [GPT-4o][chatgpt-4o] | [OpenAI API][chatgpt-4o-platform]
-  [GPT-5.2][chatgpt-5.2] | [OpenAI API][chatgpt-5.2-platform]
-  [GPT-5.2 Thinking][chatgpt-5.2-thinking] | [OpenAI API][chatgpt-5.2-thinking-platform]
-  [Claude Sonnet 4.5][claude-sonnet-4.5] | [Claude API][claude-api-platform]
-  [Llama 4 Maverick][llama-4] | [Llama Docs][llama-4-docs]
+  Model | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
+  ----- | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
+  [GPT-4o][chatgpt-4o] | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-platform]
+  [GPT-5.2][chatgpt-5.2] | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5.2-platform]
+  [Claude Sonnet 4.5][claude-sonnet-4.5] | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: | General-purpose AI | High | Anthropic | [Claude API][claude-api-platform]
+  [Llama 4 Maverick][llama-4] | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
+</details>
+<details>
+  <summary><em>Click here to expand/collapse PRO models.</em></summary>
+  
+  Model | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
+  ----- | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
+  [Claude Opus 4.6][claude-opus-4.6] | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
 </details>
 
 ## Credits
@@ -100,25 +106,28 @@ This software is distributed under the MIT License. A copy of the license is dis
 [mistral-small-3-docs]: https://docs.mistral.ai/models/mistral-small-3-0-25-01
 
 <!-- Advanced Model Links -->
+<!-- PLUS Models -->
 [chatgpt-4o]: https://openai.com/index/hello-gpt-4o/
 [chatgpt-4o-platform]: https://platform.openai.com/docs/models/gpt-4o
 [chatgpt-5.2]: https://openai.com/index/introducing-gpt-5-2/
 [chatgpt-5.2-platform]: https://platform.openai.com/docs/models/gpt-5.2
-[chatgpt-5.2-thinking]: https://openai.com/index/introducing-gpt-5-2/
-[chatgpt-5.2-thinking-platform]: https://platform.openai.com/docs/models/gpt-5.2
 [claude-sonnet-4.5]: https://www.anthropic.com/news/claude-sonnet-4-5
+<!-- PRO Models -->
+[claude-opus-4.6]: https://www.anthropic.com/news/claude-opus-4-6
 
 <!-- Duck.ai Links -->
 [duck.ai]: https://duck.ai
 [duck.ai-pp-tos]: https://duckduckgo.com/duckai/privacy-terms
 [duckduckgo-about]: https://duckduckgo.com/about
-[duckduckgo-pro]: https://duckduckgo.com/pro
+[duckduckgo-subscription]: https://duckduckgo.com/pro
 
 <!-- Duck.ai Sidebar Extension Project Links -->
-[duck.ai-sidebar]: https://nocyei.github.io
+[duck.ai-sidebar]: https://nocyei.github.io/duck.ai
 [duck.ai-sidebar-repo]: https://github.com/nocyei/duck-ai-sidebar
 
 <!-- Footnotes -->
 [^1]: [Duck.ai's Privacy Policy and Terms of Service][duck.ai-pp-tos] provide more details on how user data is handled.
 [^2]: See [Duck.ai's usage limits](https://duckduckgo.com/duckduckgo-help-pages/duckai/usage-limits) for more information.
 [^3]: [OpenAI is the model provider for all voice chats.](https://duckduckgo.com/duckduckgo-help-pages/duckai/is-duckai-voice-chat-private)
+[^4]: Requires the DuckDuckGo **PLUS** subscription tier.
+[^5]: Requires the DuckDuckGo **PRO** subscription tier.
