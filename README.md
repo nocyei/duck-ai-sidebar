@@ -54,12 +54,12 @@ As of late March 2026, [Duck.ai][duck.ai] offers the following models to all use
   
   Model | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
   ----- | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
-  [GPT-5 mini][chatgpt-5-mini] | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5-mini-platform]
-  [GPT-4o mini][chatgpt-4o-mini] | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-mini-platform]
-  [GPT-OSS 120B][chatgpt-oss-120b] | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-oss-120b-platform]
-  [Llama 4 Scout][llama-4] | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
-  [Claude Haiku 4.5][claude-haiku-4.5] | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: | General-purpose AI | High | Anthropic | [Claude API][claude-api-platform]
-  [Mistral Small 3][mistral-small-3] | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | General-purpose AI | Low | Mistral AI | [Mistral Docs][mistral-small-3-docs]
+  [GPT-5 mini][chatgpt-5-mini] | :x: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5-mini-platform]
+  [GPT-4o mini][chatgpt-4o-mini] | :x: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-mini-platform]
+  [GPT-OSS 120B][chatgpt-oss-120b] | :heavy_check_mark: | :x: | :x: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-oss-120b-platform]
+  [Llama 4 Scout][llama-4] | :heavy_check_mark: | :x: | :x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
+  [Claude Haiku 4.5][claude-haiku-4.5] | :x: | :x: | :heavy_check_mark: | General-purpose AI | High | Anthropic | [Claude API][claude-api-platform]
+  [Mistral Small 3][mistral-small-3] | :heavy_check_mark: | :x: | :x: | General-purpose AI | Low | Mistral AI | [Mistral Docs][mistral-small-3-docs]
 </details>
 
 ## Advanced Models
@@ -70,17 +70,17 @@ Additionally, users with a [DuckDuckGo **subscription**][duckduckgo-subscription
   
   Model | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
   ----- | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
-  [GPT-4o][chatgpt-4o] | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-platform]
-  [GPT-5.2][chatgpt-5.2] | :heavy_multiplication_x: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5.2-platform]
-  [Claude Sonnet 4.5][claude-sonnet-4.5] | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: | General-purpose AI | High | Anthropic | [Claude API][claude-api-platform]
-  [Llama 4 Maverick][llama-4] | :heavy_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
+  [GPT-4o][chatgpt-4o] | :x: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-platform]
+  [GPT-5.2][chatgpt-5.2] | :x: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5.2-platform]
+  [Claude Sonnet 4.5][claude-sonnet-4.5] | :x: | :x: | :heavy_check_mark: | General-purpose AI | High | Anthropic | [Claude API][claude-api-platform]
+  [Llama 4 Maverick][llama-4] | :heavy_check_mark: | :x: | :x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
 </details>
 <details>
   <summary><em>Click here to expand/collapse PRO models.</em></summary>
   
   Model | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
   ----- | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
-  [Claude Opus 4.6][claude-opus-4.6] | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
+  [Claude Opus 4.6][claude-opus-4.6] | :x: | :x: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
 </details>
 
 ## Credits
