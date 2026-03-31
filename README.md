@@ -131,6 +131,6 @@ This software is distributed under the MIT License. A copy of the license is dis
 [^1]: [Duck.ai's Privacy Policy and Terms of Service][duck.ai-pp-tos] provide more details on how user data is handled.
 [^2]: See [Duck.ai's usage limits](https://duckduckgo.com/duckduckgo-help-pages/duckai/usage-limits) for more information.
 [^3]: [OpenAI is the model provider for all voice chats.](https://duckduckgo.com/duckduckgo-help-pages/duckai/is-duckai-voice-chat-private)
-[^4]: GPT-OSS 120B runs in a Trusted Execution Environment. This means not even the model provider can see your prompts or the model’s responses, or save the chat on their servers.
+[^4]: "GPT-OSS 120B runs in a Trusted Execution Environment. This means not even the model provider can see your prompts or the model’s responses, or save the chat on their servers."
 [^5]: Requires the DuckDuckGo **PLUS** subscription tier.
 [^6]: Requires the DuckDuckGo **PRO** subscription tier.
