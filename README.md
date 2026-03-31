@@ -39,7 +39,7 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
   <summary><em>Click here to expand/collapse the Sidebar's features.</em></summary>
   
   Sidebar Features | Status
-  ---------------- | :----:
+  :--------------- | :----:
   Access to Duck.ai and it's features in a Sidebar. | Implemented
   Ask Duck.ai about selected text on a webpage, using the context menu. | Planned
   Ask Duck.ai to summarize the current webpage, using the context menu. | Planned
@@ -53,7 +53,7 @@ As of late March 2026, [Duck.ai][duck.ai] offers the following models to all use
   <summary><em>Click here to expand/collapse base AI models.</em></summary>
   
   Model | Zero provider visibility[^4] | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
-  ----- | :--------------------------: | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
+  :---- | :--------------------------: | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
   [GPT-5 mini][chatgpt-5-mini] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5-mini-platform]
   [GPT-4o mini][chatgpt-4o-mini] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-mini-platform]
   [GPT-OSS 120B][chatgpt-oss-120b] [BETA] | :heavy_check_mark:[^4] | :heavy_check_mark: | :x: | :x: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-oss-120b-platform]
@@ -68,10 +68,10 @@ As of late March 2026, [Duck.ai][duck.ai] offers the following models to all use
 Additionally, users with a [DuckDuckGo **subscription**][duckduckgo-subscription] can access *advanced* models:
 <details>
   <summary><em>Click here to expand/collapse advanced AI models.</em></summary>
-
+  
   ### PLUS Models[^5]
   Model | Zero provider visibility[^4] | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
-  ----- | :----------------------: | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
+  :---- | :----------------------: | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
   [GPT-4o][chatgpt-4o] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-platform]
   [GPT-5.2][chatgpt-5.2] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5.2-platform]
   [Claude Sonnet 4.5][claude-sonnet-4.5] | :x: | :x: | :x: | :heavy_check_mark: | General-purpose AI | High | Anthropic | [Claude API][claude-api-platform]
@@ -79,7 +79,7 @@ Additionally, users with a [DuckDuckGo **subscription**][duckduckgo-subscription
   
   ### PRO Models[^6]
   Model | Zero provider visibility[^4] | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
-  ----- | :----------------------: | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
+  :---- | :----------------------: | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
   [Claude Opus 4.6][claude-opus-4.6] | :x: | :x: | :x: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
   
 </details>
