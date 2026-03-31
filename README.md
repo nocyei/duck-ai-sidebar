@@ -50,37 +50,38 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
 As of late March 2026, [Duck.ai][duck.ai] offers the following models to all users:
 
 <details>
-  <summary><em>Click here to expand/collapse.</em></summary>
+  <summary><em>Click here to expand/collapse base AI models.</em></summary>
   
-  Model | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
-  ----- | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
-  [GPT-5 mini][chatgpt-5-mini] | :x: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5-mini-platform]
-  [GPT-4o mini][chatgpt-4o-mini] | :x: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-mini-platform]
-  [GPT-OSS 120B][chatgpt-oss-120b] | :heavy_check_mark: | :x: | :x: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-oss-120b-platform]
-  [Llama 4 Scout][llama-4] | :heavy_check_mark: | :x: | :x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
-  [Claude Haiku 4.5][claude-haiku-4.5] | :x: | :x: | :heavy_check_mark: | General-purpose AI | High | Anthropic | [Claude API][claude-api-platform]
-  [Mistral Small 3][mistral-small-3] | :heavy_check_mark: | :x: | :x: | General-purpose AI | Low | Mistral AI | [Mistral Docs][mistral-small-3-docs]
+  Model | Zero provider visibility[^4] | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
+  ----- | :--------------------------: | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
+  [GPT-5 mini][chatgpt-5-mini] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5-mini-platform]
+  [GPT-4o mini][chatgpt-4o-mini] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-mini-platform]
+  [GPT-OSS 120B][chatgpt-oss-120b] [BETA] | :heavy_check_mark:[^4] | :heavy_check_mark: | :x: | :x: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-oss-120b-platform]
+  [Llama 4 Scout][llama-4] | :x: | :heavy_check_mark: | :x: | :x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
+  [Claude Haiku 4.5][claude-haiku-4.5] | :x: | :x: | :x: | :heavy_check_mark: | General-purpose AI | High | Anthropic | [Claude API][claude-api-platform]
+  [Mistral Small 3][mistral-small-3] | :x: | :heavy_check_mark: | :x: | :x: | General-purpose AI | Low | Mistral AI | [Mistral Docs][mistral-small-3-docs]
+  
 </details>
 
 ## Advanced Models
 
 Additionally, users with a [DuckDuckGo **subscription**][duckduckgo-subscription] can access *advanced* models:
 <details>
-  <summary><em>Click here to expand/collapse PLUS models.</em></summary>
+  <summary><em>Click here to expand/collapse advanced AI models.</em></summary>
+
+  ### PLUS Models[^5]
+  Model | Zero provider visibility[^4] | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
+  ----- | :----------------------: | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
+  [GPT-4o][chatgpt-4o] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-platform]
+  [GPT-5.2][chatgpt-5.2] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5.2-platform]
+  [Claude Sonnet 4.5][claude-sonnet-4.5] | :x: | :x: | :x: | :heavy_check_mark: | General-purpose AI | High | Anthropic | [Claude API][claude-api-platform]
+  [Llama 4 Maverick][llama-4] | :x: | :heavy_check_mark: | :x: | :x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
   
-  Model | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
-  ----- | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
-  [GPT-4o][chatgpt-4o] | :x: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-platform]
-  [GPT-5.2][chatgpt-5.2] | :x: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5.2-platform]
-  [Claude Sonnet 4.5][claude-sonnet-4.5] | :x: | :x: | :heavy_check_mark: | General-purpose AI | High | Anthropic | [Claude API][claude-api-platform]
-  [Llama 4 Maverick][llama-4] | :heavy_check_mark: | :x: | :x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
-</details>
-<details>
-  <summary><em>Click here to expand/collapse PRO models.</em></summary>
+  ### PRO Models[^6]
+  Model | Zero provider visibility[^4] | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
+  ----- | :----------------------: | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
+  [Claude Opus 4.6][claude-opus-4.6] | :x: | :x: | :x: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
   
-  Model | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
-  ----- | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
-  [Claude Opus 4.6][claude-opus-4.6] | :x: | :x: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
 </details>
 
 ## Credits
@@ -112,6 +113,7 @@ This software is distributed under the MIT License. A copy of the license is dis
 [chatgpt-5.2]: https://openai.com/index/introducing-gpt-5-2/
 [chatgpt-5.2-platform]: https://platform.openai.com/docs/models/gpt-5.2
 [claude-sonnet-4.5]: https://www.anthropic.com/news/claude-sonnet-4-5
+
 <!-- PRO Models -->
 [claude-opus-4.6]: https://www.anthropic.com/news/claude-opus-4-6
 
@@ -129,5 +131,6 @@ This software is distributed under the MIT License. A copy of the license is dis
 [^1]: [Duck.ai's Privacy Policy and Terms of Service][duck.ai-pp-tos] provide more details on how user data is handled.
 [^2]: See [Duck.ai's usage limits](https://duckduckgo.com/duckduckgo-help-pages/duckai/usage-limits) for more information.
 [^3]: [OpenAI is the model provider for all voice chats.](https://duckduckgo.com/duckduckgo-help-pages/duckai/is-duckai-voice-chat-private)
-[^4]: Requires the DuckDuckGo **PLUS** subscription tier.
-[^5]: Requires the DuckDuckGo **PRO** subscription tier.
+[^4]: GPT-OSS 120B runs in a Trusted Execution Environment. This means not even the model provider can see your prompts or the model’s responses, or save the chat on their servers.
+[^5]: Requires the DuckDuckGo **PLUS** subscription tier.
+[^6]: Requires the DuckDuckGo **PRO** subscription tier.
