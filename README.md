@@ -75,7 +75,7 @@ Additionally, users with a [DuckDuckGo **subscription**][duckduckgo-subscription
   [GPT-4o][chatgpt-4o] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-platform]
   [GPT-5.2][chatgpt-5.2] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5.2-platform]
   [Claude Sonnet 4.5][claude-sonnet-4.5] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
-  [Llama 4 Maverick][llama-4] | :x: | :heavy_check_mark: | :x: | :x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
+  [Llama 4 Maverick][llama-4] | :x: | :heavy_check_mark: | :x: | :x: | :x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
   
   ### PRO Models[^6]
   Model | Zero provider visibility[^4] | Open Source | File Upload (PDF) | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
