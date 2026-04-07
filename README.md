@@ -47,19 +47,19 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
 
 ## Base Models
 
-As of late March 2026, [Duck.ai][duck.ai] offers the following models to all users:
+As of April 2026, [Duck.ai][duck.ai] offers the following models to all users:
 
 <details>
   <summary><em>Click here to expand/collapse base AI models.</em></summary>
   
-  Model | Zero provider visibility[^4] | Open Source | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
-  :---- | :--------------------------: | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
-  [GPT-5 mini][chatgpt-5-mini] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5-mini-platform]
-  [GPT-4o mini][chatgpt-4o-mini] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-mini-platform]
-  [GPT-OSS 120B][chatgpt-oss-120b] [BETA] | :heavy_check_mark:[^4] | :heavy_check_mark: | :x: | :x: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-oss-120b-platform]
-  [Llama 4 Scout][llama-4] | :x: | :heavy_check_mark: | :x: | :x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
-  [Claude Haiku 4.5][claude-haiku-4.5] | :x: | :x: | :x: | :heavy_check_mark: | General-purpose AI | High | Anthropic | [Claude API][claude-api-platform]
-  [Mistral Small 3][mistral-small-3] | :x: | :heavy_check_mark: | :x: | :x: | General-purpose AI | Low | Mistral AI | [Mistral Docs][mistral-small-3-docs]
+  Model | Zero provider visibility[^4] | Open Source | File Upload (PDF) | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
+  :---- | :--------------------------: | :---------: | :---------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
+  [GPT-5 mini][chatgpt-5-mini] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5-mini-platform]
+  [GPT-4o mini][chatgpt-4o-mini] | :x: | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-mini-platform]
+  [GPT-OSS 120B][chatgpt-oss-120b] [BETA] | :heavy_check_mark:[^4] | :heavy_check_mark: | :x: | :x: | :x: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-oss-120b-platform]
+  [Llama 4 Scout][llama-4] | :x: | :heavy_check_mark: | :x: | :x: | :x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
+  [Claude Haiku 4.5][claude-haiku-4.5] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
+  [Mistral Small 3][mistral-small-3] | :x: | :heavy_check_mark: | :x: | :x: | :x: | General-purpose AI | Low | Mistral AI | [Mistral Docs][mistral-small-3-docs]
   
 </details>
 
