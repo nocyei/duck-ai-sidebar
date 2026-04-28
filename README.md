@@ -59,7 +59,7 @@ As of April 2026, [Duck.ai][duck.ai] offers the following models to all users:
   [GPT-OSS 120B][chatgpt-oss-120b] [BETA] | :heavy_check_mark:[^4] | :heavy_check_mark: | :x: | :x: | :x: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-oss-120b-platform]
   [Llama 4 Scout][llama-4] | :x: | :heavy_check_mark: | :x: | :x: | :x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
   [Claude Haiku 4.5][claude-haiku-4.5] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
-  [Mistral Small 3][mistral-small-3] | :x: | :heavy_check_mark: | :x: | :x: | :x: | General-purpose AI | Low | Mistral AI | [Mistral Docs][mistral-small-3-docs]
+  [Mistral Small 4][mistral-small-4] | :x: | :heavy_check_mark: | :x: | :x: | :x: | General-purpose AI | Low | Mistral AI | [Mistral Docs][mistral-small-4-docs]
   
 </details>
 
@@ -103,8 +103,8 @@ This software is distributed under the MIT License. A copy of the license is dis
 [llama-4-docs]: https://www.llama.com/docs/model-cards-and-prompt-formats/llama4/
 [claude-haiku-4.5]: https://www.anthropic.com/news/claude-haiku-4-5
 [claude-api-platform]: https://platform.claude.com/docs/en/about-claude/models/overview
-[mistral-small-3]: https://mistral.ai/news/mistral-small-3
-[mistral-small-3-docs]: https://docs.mistral.ai/models/mistral-small-3-0-25-01
+[mistral-small-4]: https://mistral.ai/news/mistral-small-4
+[mistral-small-4-docs]: https://docs.mistral.ai/models/model-cards/mistral-small-4-0-26-03
 
 <!-- Advanced Model Links -->
 <!-- PLUS Models -->
