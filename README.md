@@ -32,7 +32,7 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
   ---------------- | -----------
   AI Chat | Allows you to have private conversations with 3rd-party AI chat models, anonymized by DuckDuckGo[^1].
   AI Voice Chat | Allows you to have private voice conversations with an OpenAI model[^3], anonymized by DuckDuckGo[^1].
-  AI Image Creation | Allows you to create AI-generated images.
+  AI Image Creation | Allows you to create AI-generated images using [GPT Image 2][gpt-image-2].
 </details>
 
 <details open>
@@ -46,6 +46,9 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
 </details>
 
 ## Base Models
+
+> [!note]
+> [GPT-4o mini][chatgpt-4o-mini] and [Llama 4 Scout][llama-4] will be leaving [Duck.ai][duck.ai] on June 15, 2026. After that, you can switch models to continue your chats.
 
 As of April 2026, [Duck.ai][duck.ai] offers the following models to all users:
 
@@ -92,6 +95,9 @@ The original extension was created by [@yookoala](https://github.com/yookoala).
 
 This software is distributed under the MIT License. A copy of the license is distributed along with the source code [here](LICENSE.md).
 
+<!-- Image Generation Models -->
+[gpt-image-2]: https://openai.com/index/introducing-chatgpt-images-2-0/
+
 <!-- Base Model Links -->
 [chatgpt-5-mini]: https://openai.com/index/introducing-gpt-5/
 [chatgpt-5-mini-platform]: https://platform.openai.com/docs/models/gpt-5-mini
@@ -113,7 +119,6 @@ This software is distributed under the MIT License. A copy of the license is dis
 [chatgpt-5.2]: https://openai.com/index/introducing-gpt-5-2/
 [chatgpt-5.2-platform]: https://platform.openai.com/docs/models/gpt-5.2
 [claude-sonnet-4.5]: https://www.anthropic.com/news/claude-sonnet-4-5
-
 <!-- PRO Models -->
 [claude-opus-4.6]: https://www.anthropic.com/news/claude-opus-4-6
 
