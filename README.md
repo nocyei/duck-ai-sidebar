@@ -47,10 +47,7 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
 
 ## Base Models
 
-> [!note]
-> [GPT-4o mini][chatgpt-4o-mini] and [Llama 4 Scout][llama-4] will be leaving [Duck.ai][duck.ai] on June 15, 2026. After that, you can switch models to continue your chats.
-
-As of April 2026, [Duck.ai][duck.ai] offers the following models to all users:
+As of June 2026, [Duck.ai][duck.ai] offers the following models to all users:
 
 <details>
   <summary><em>Click here to expand/collapse base AI models.</em></summary>
@@ -58,9 +55,7 @@ As of April 2026, [Duck.ai][duck.ai] offers the following models to all users:
   Model | Zero provider visibility[^4] | Open Source | File Upload (PDF) | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
   :---- | :--------------------------: | :---------: | :---------------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
   [GPT-5 mini][chatgpt-5-mini] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5-mini-platform]
-  [GPT-4o mini][chatgpt-4o-mini] | :x: | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-mini-platform]
   [GPT-OSS 120B][chatgpt-oss-120b] [BETA] | :heavy_check_mark:[^4] | :heavy_check_mark: | :x: | :x: | :x: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-oss-120b-platform]
-  [Llama 4 Scout][llama-4] | :x: | :heavy_check_mark: | :x: | :x: | :x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
   [Claude Haiku 4.5][claude-haiku-4.5] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
   [Mistral Small 4][mistral-small-4] | :x: | :heavy_check_mark: | :x: | :x: | :x: | General-purpose AI | Low | Mistral AI | [Mistral Docs][mistral-small-4-docs]
   
@@ -76,14 +71,14 @@ Additionally, users with a [DuckDuckGo **subscription**][duckduckgo-subscription
   Model | Zero provider visibility[^4] | Open Source | File Upload (PDF) | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
   :---- | :--------------------------: | :---------: | :---------------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
   [GPT-4o][chatgpt-4o] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-platform]
-  [GPT-5.2][chatgpt-5.2] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5.2-platform]
-  [Claude Sonnet 4.5][claude-sonnet-4.5] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
+  [GPT-5.4][chatgpt-5.4] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5.4-platform]
+  [Claude Sonnet 4.6][claude-sonnet-4.6] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
   [Llama 4 Maverick][llama-4] | :x: | :heavy_check_mark: | :x: | :x: | :x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
   
   ### PRO Models[^6]
   Model | Zero provider visibility[^4] | Open Source | File Upload (PDF) | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
   :---- | :--------------------------: | :---------: | :---------------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
-  [Claude Opus 4.6][claude-opus-4.6] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
+  [Claude Opus 4.7][claude-opus-4.7] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
   
 </details>
 
@@ -101,8 +96,6 @@ This software is distributed under the MIT License. A copy of the license is dis
 <!-- Base Model Links -->
 [chatgpt-5-mini]: https://openai.com/index/introducing-gpt-5/
 [chatgpt-5-mini-platform]: https://platform.openai.com/docs/models/gpt-5-mini
-[chatgpt-4o-mini]: https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence
-[chatgpt-4o-mini-platform]: https://platform.openai.com/docs/models/gpt-4o-mini
 [chatgpt-oss-120b]: https://openai.com/index/introducing-gpt-oss/
 [chatgpt-oss-120b-platform]: https://platform.openai.com/docs/models/gpt-oss-120b
 [llama-4]: https://www.llama.com/models/llama-4/
@@ -116,11 +109,11 @@ This software is distributed under the MIT License. A copy of the license is dis
 <!-- PLUS Models -->
 [chatgpt-4o]: https://openai.com/index/hello-gpt-4o/
 [chatgpt-4o-platform]: https://platform.openai.com/docs/models/gpt-4o
-[chatgpt-5.2]: https://openai.com/index/introducing-gpt-5-2/
-[chatgpt-5.2-platform]: https://platform.openai.com/docs/models/gpt-5.2
-[claude-sonnet-4.5]: https://www.anthropic.com/news/claude-sonnet-4-5
+[chatgpt-5.4]: https://openai.com/index/introducing-gpt-5-4/
+[chatgpt-5.4-platform]: https://platform.openai.com/docs/models/gpt-5.4
+[claude-sonnet-4.6]: https://www.anthropic.com/news/claude-sonnet-4-6
 <!-- PRO Models -->
-[claude-opus-4.6]: https://www.anthropic.com/news/claude-opus-4-6
+[claude-opus-4.7]: https://www.anthropic.com/news/claude-opus-4-7
 
 <!-- Duck.ai Links -->
 [duck.ai]: https://duck.ai
