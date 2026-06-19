@@ -54,7 +54,9 @@ As of June 2026, [Duck.ai][duck.ai] offers the following models to all users:
   
   Model | Zero provider visibility[^4] | Open Source | File Upload (PDF) | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
   :---- | :--------------------------: | :---------: | :---------------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
+  [GPT-5.4 mini][chatgpt-5.4-mini] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5.4-mini-platform]
   [GPT-5 mini][chatgpt-5-mini] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5-mini-platform]
+  [GPT-5.4 nano][chatgpt-5.4-nano] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5.4-nano-platform]
   [GPT-OSS 120B][chatgpt-oss-120b] [BETA] | :heavy_check_mark:[^4] | :heavy_check_mark: | :x: | :x: | :x: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-oss-120b-platform]
   [Claude Haiku 4.5][claude-haiku-4.5] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
   [Mistral Small 4][mistral-small-4] | :x: | :heavy_check_mark: | :x: | :x: | :x: | General-purpose AI | Low | Mistral AI | [Mistral Docs][mistral-small-4-docs]
@@ -94,8 +96,12 @@ This software is distributed under the MIT License. A copy of the license is dis
 [gpt-image-2]: https://openai.com/index/introducing-chatgpt-images-2-0/
 
 <!-- Base Model Links -->
+[chatgpt-5.4-mini]: https://openai.com/index/introducing-gpt-5-4-mini-and-nano/
+[chatgpt-5.4-mini-platform]: https://platform.openai.com/docs/models/gpt-5.4-mini
 [chatgpt-5-mini]: https://openai.com/index/introducing-gpt-5/
 [chatgpt-5-mini-platform]: https://platform.openai.com/docs/models/gpt-5-mini
+[chatgpt-5.4-nano]: https://openai.com/index/introducing-gpt-5-4-mini-and-nano/
+[chatgpt-5.4-nano-platform]: https://platform.openai.com/docs/models/gpt-5.4-nano
 [chatgpt-oss-120b]: https://openai.com/index/introducing-gpt-oss/
 [chatgpt-oss-120b-platform]: https://platform.openai.com/docs/models/gpt-oss-120b
 [llama-4]: https://www.llama.com/models/llama-4/
