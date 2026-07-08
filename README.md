@@ -102,7 +102,7 @@ This software is distributed under the MIT License. A copy of the license is dis
 [chatgpt-5.4-nano-platform]: https://platform.openai.com/docs/models/gpt-5.4-nano
 [chatgpt-oss-120b]: https://openai.com/index/introducing-gpt-oss/
 [chatgpt-oss-120b-platform]: https://platform.openai.com/docs/models/gpt-oss-120b
-[gemma-4-31b]: https://ai.google.dev/gemma
+[gemma-4-31b]: https://deepmind.google/models/gemma/
 [gemma-4-31b-docs]: https://ai.google.dev/gemma/docs
 [llama-4]: https://www.llama.com/models/llama-4/
 [llama-4-docs]: https://www.llama.com/docs/model-cards-and-prompt-formats/llama4/
