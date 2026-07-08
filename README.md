@@ -47,7 +47,7 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
 
 ## Base Models
 
-As of Juli 2026, [Duck.ai][duck.ai] offers the following models to all users:
+As of July 2026, [Duck.ai][duck.ai] offers the following models to all users:
 
 <details>
   <summary><em>Click here to expand/collapse base AI models.</em></summary>
