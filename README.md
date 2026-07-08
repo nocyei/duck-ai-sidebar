@@ -56,10 +56,10 @@ As of June 2026, [Duck.ai][duck.ai] offers the following models to all users:
   :---- | :--------------------------: | :---------: | :---------------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
   [GPT-5.4 mini][chatgpt-5.4-mini] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5.4-mini-platform]
   [GPT-5.4 nano][chatgpt-5.4-nano] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5.4-nano-platform]
-  [GPT-OSS 120B][chatgpt-oss-120b] [BETA] | :heavy_check_mark:[^4] | :heavy_check_mark: | :x: | :x: | :x: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-oss-120b-platform]
-  [Gemma 4 31B][gemma-4-31b] | :x: | :heavy_check_mark: | :x: | :x: | :x: | General-purpose AI | Medium | Google | [Gemma Docs][gemma-4-31b-docs]
   [Claude Haiku 4.5][claude-haiku-4.5] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
   [Mistral Small 4][mistral-small-4] | :x: | :heavy_check_mark: | :x: | :x: | :x: | General-purpose AI | Low | Mistral AI | [Mistral Docs][mistral-small-4-docs]
+  [GPT-OSS 120B][chatgpt-oss-120b] | :heavy_check_mark:[^4] | :heavy_check_mark: | :x: | :x: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-oss-120b-platform]
+  [Gemma 4 31B][gemma-4-31b] [BETA] | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: | :heavy_check_mark: | General-purpose AI | Medium | Google | [Gemma Docs][gemma-4-31b-docs]
   
 </details>
 
