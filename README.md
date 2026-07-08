@@ -47,7 +47,7 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
 
 ## Base Models
 
-As of June 2026, [Duck.ai][duck.ai] offers the following models to all users:
+As of Juli 2026, [Duck.ai][duck.ai] offers the following models to all users:
 
 <details>
   <summary><em>Click here to expand/collapse base AI models.</em></summary>
@@ -59,7 +59,7 @@ As of June 2026, [Duck.ai][duck.ai] offers the following models to all users:
   [Claude Haiku 4.5][claude-haiku-4.5] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
   [Mistral Small 4][mistral-small-4] | :x: | :heavy_check_mark: | :x: | :x: | :x: | General-purpose AI | Low | Mistral AI | [Mistral Docs][mistral-small-4-docs]
   [GPT-OSS 120B][chatgpt-oss-120b] | :heavy_check_mark:[^4] | :heavy_check_mark: | :x: | :x: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-oss-120b-platform]
-  [Gemma 4 31B][gemma-4-31b] [BETA] | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: | :heavy_check_mark: | General-purpose AI | Medium | Google | [Gemma Docs][gemma-4-31b-docs]
+  [Gemma 4 31B][gemma-4-31b] [BETA] | :heavy_check_mark:[^4] | :heavy_check_mark: | :x: | :x: | :heavy_check_mark: | General-purpose AI | Medium | Google | [Gemma Docs][gemma-4-31b-docs]
   
 </details>
 
