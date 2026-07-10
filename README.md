@@ -80,7 +80,7 @@ Additionally, users with a [DuckDuckGo **subscription**][duckduckgo-subscription
   ### PRO Models[^6]
   Model | Zero provider visibility[^4] | Open Source | File Upload (PDF) | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
   :---- | :--------------------------: | :---------: | :---------------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
-  [Claude Opus 4.7][claude-opus-4.7] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
+  [Claude Opus 4.8][claude-opus-4.8] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
   
 </details>
 
@@ -119,7 +119,7 @@ This software is distributed under the MIT License. A copy of the license is dis
 [chatgpt-5.4-platform]: https://platform.openai.com/docs/models/gpt-5.4
 [claude-sonnet-4.6]: https://www.anthropic.com/news/claude-sonnet-4-6
 <!-- PRO Models -->
-[claude-opus-4.7]: https://www.anthropic.com/news/claude-opus-4-7
+[claude-opus-4.8]: https://www.anthropic.com/news/claude-opus-4-8
 
 <!-- Duck.ai Links -->
 [duck.ai]: https://duck.ai
