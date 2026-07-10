@@ -41,7 +41,7 @@ This extension allows you to open the [Duck.ai][duck.ai] chat interface in the F
   Sidebar Features | Status
   :--------------- | :----:
   Access to Duck.ai and it's features in a Sidebar. | Implemented
-  Ask Duck.ai about selected text on a webpage, using the context menu. | Planned
+  Ask Duck.ai about selected text on a webpage, using the context menu. | Implemented
   Ask Duck.ai to summarize the current webpage, using the context menu. | Planned
 </details>
 
