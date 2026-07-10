@@ -1,5 +1,6 @@
 const extensionApi = globalThis.browser ?? globalThis.chrome;
 const ASK_DUCK_AI_MENU_ID = "ask-duck-ai";
+const SIDEBAR_PATH = "src/sidebar.html";
 
 function createAskDuckAiMenu() {
   if (!extensionApi?.contextMenus) {
@@ -39,11 +40,23 @@ function openDuckAiWithSelection(info, tab) {
   const prompt = tab?.url
     ? `Can you explain this selected text from ${tab.url}?\n\n${selectedText}`
     : selectedText;
+  const sidebarPath = `${SIDEBAR_PATH}?q=${encodeURIComponent(prompt)}`;
+  const hasFirefoxSidebarApi = extensionApi.sidebarAction?.setPanel;
 
-  const askUrl = new URL("https://duck.ai/");
-  askUrl.searchParams.set("q", prompt);
+  if (hasFirefoxSidebarApi) {
+    extensionApi.sidebarAction.setPanel({ panel: sidebarPath });
+    extensionApi.sidebarAction.open();
+    return;
+  }
 
-  extensionApi.tabs?.create({ url: askUrl.toString() });
+  if (extensionApi.sidePanel?.setOptions && tab?.id !== undefined) {
+    extensionApi.sidePanel.setOptions({
+      tabId: tab.id,
+      path: sidebarPath,
+      enabled: true,
+    });
+    extensionApi.sidePanel.open({ tabId: tab.id });
+  }
 }
 
 extensionApi.runtime?.onInstalled?.addListener(createAskDuckAiMenu);
