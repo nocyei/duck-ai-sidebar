@@ -72,10 +72,8 @@ Additionally, users with a [DuckDuckGo **subscription**][duckduckgo-subscription
   ### PLUS Models[^5]
   Model | Zero provider visibility[^4] | Open Source | File Upload (PDF) | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
   :---- | :--------------------------: | :---------: | :---------------: | :----------: | :--------: | :------: | :-----------------: | :--------: | :-----------:
-  [GPT-4o][chatgpt-4o] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | General-purpose AI | High | OpenAI | [OpenAI API][chatgpt-4o-platform]
   [GPT-5.4][chatgpt-5.4] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | OpenAI | [OpenAI API][chatgpt-5.4-platform]
   [Claude Sonnet 4.6][claude-sonnet-4.6] | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Reasoning AI | High | Anthropic | [Claude API][claude-api-platform]
-  [Llama 4 Maverick][llama-4] | :x: | :heavy_check_mark: | :x: | :x: | :x: | General-purpose AI | Medium | Meta | [Llama Docs][llama-4-docs]
   
   ### PRO Models[^6]
   Model | Zero provider visibility[^4] | Open Source | File Upload (PDF) | Image Upload | Web Search | Category | Built-in Moderation | Created By | Documentation
@@ -113,8 +111,6 @@ This software is distributed under the MIT License. A copy of the license is dis
 
 <!-- Advanced Model Links -->
 <!-- PLUS Models -->
-[chatgpt-4o]: https://openai.com/index/hello-gpt-4o/
-[chatgpt-4o-platform]: https://platform.openai.com/docs/models/gpt-4o
 [chatgpt-5.4]: https://openai.com/index/introducing-gpt-5-4/
 [chatgpt-5.4-platform]: https://platform.openai.com/docs/models/gpt-5.4
 [claude-sonnet-4.6]: https://www.anthropic.com/news/claude-sonnet-4-6
