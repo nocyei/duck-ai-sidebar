@@ -24,12 +24,16 @@
     "default_path": "src/sidebar.html"
   },
   "permissions": [
-    "sidePanel"
+    "sidePanel",
+    "contextMenus"
   ],
   "icons": {
     "16": "src/icons/icon.svg",
     "32": "src/icons/icon.svg",
     "48": "src/icons/icon.svg",
     "128": "src/icons/icon.svg"
+  },
+  "background": {
+    "service_worker": "src/background.js"
   }
 }

@@ -5,7 +5,6 @@
   "description": "Running Duck.ai in your Firefox sidebar. Not related or affiliated with Duck.ai and/or DuckDuckGo.",
   "version": "1.0",
   "homepage_url": "https://nocyei.github.io/duck-ai-sidebar/",
-  
   "commands": {
     "_execute_sidebar_action": {
       "suggested_key": {
@@ -14,14 +13,12 @@
       "description": "Toggle sidebar"
     }
   },
-  
   "sidebar_action": {
     "default_title": "Duck.ai Sidebar",
     "default_icon": "src/icons/logo-dark.svg",
     "default_panel": "src/sidebar.html",
     "open_at_install": true
   },
-  
   "icons": {
     "16": "src/icons/logo-dark.svg",
     "32": "src/icons/logo-dark.svg",
@@ -31,8 +28,10 @@
     "256": "src/icons/logo-dark.svg",
     "512": "src/icons/logo-dark.svg"
   },
-  
   "permissions": [
     "contextMenus"
-  ]
+  ],
+  "background": {
+    "service_worker": "src/background.js"
+  }
 }
